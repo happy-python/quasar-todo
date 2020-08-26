@@ -26,4 +26,4 @@ quasar build
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 ### Screenshots
-<img src="http://qiniu.rocbj.com/Jietu20200826-175334.jpg" height="200" /><img src="http://qiniu.rocbj.com/Jietu20200826-175353.jpg" height="200" /><img src="http://qiniu.rocbj.com/Jietu20200826-175437.jpg" height="200" />
+<img src="http://qiniu.rocbj.com/Jietu20200826-175334.jpg" height="200" /> <img src="http://qiniu.rocbj.com/Jietu20200826-175353.jpg" height="200" /> <img src="http://qiniu.rocbj.com/Jietu20200826-175437.jpg" height="200" />
